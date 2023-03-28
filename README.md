@@ -1,4 +1,4 @@
-# ReadMe
+# Introduction
 
 This repo archives the code for the research article titled **Moving Up the Ladder of Abstraction: How to Span the Boundaries of Knowledge Space in the Online Knowledge Market?**
 
