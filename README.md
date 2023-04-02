@@ -7,7 +7,7 @@ This repo archives the code for the research article titled **Moving Up the Ladd
 - https://github.com/socrateslab/AbstractionLadder/blob/main/Figure4-inverted-u-shape.ipynb
 
 ## R script of Regression models
-https://github.com/socrateslab/AbstractionLadder/blob/main/Table2-and-Figure5-regression.ipynb
+- https://github.com/socrateslab/AbstractionLadder/blob/main/Table2-and-Figure5-regression.ipynb
 
 ![image](https://user-images.githubusercontent.com/543384/229044890-9fcb46be-7da5-4614-afd7-091e2f73bf99.png)
 
