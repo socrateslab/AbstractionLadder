@@ -4,7 +4,7 @@ This repo archives the code for the research article titled **Moving Up the Ladd
 
 ## Python script of Figure 3 and Figure 4
 - https://github.com/socrateslab/AbstractionLadder/blob/main/Figure3-2D-knowledge-space.ipynb
-- https://github.com/socrateslab/AbstractionLadder/blob/main/Figure4-invertd-u-shape.ipynb
+- https://github.com/socrateslab/AbstractionLadder/blob/main/Figure4-inverted-u-shape.ipynb
 
 ## R script of Regression models
 https://github.com/socrateslab/AbstractionLadder/blob/main/zhihu_knowledge_spanning_regression.ipynb
